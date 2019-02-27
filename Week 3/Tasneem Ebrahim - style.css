@@ -1,0 +1,21 @@
+body {
+  background-color: #a9abb8;
+  font-family: 'Lato', sans-serif;
+  padding: 10px;
+  font-size: 20px;
+  color: #1d2d94;
+}
+
+h1, h3 {
+  color: #172479;
+}
+
+h1 {
+  font-family: ;
+  font-size: ;
+}
+
+img {
+  width: 600px;
+  border-radius: 5%;
+}

@@ -1,1 +1,5 @@
 img {width: 500px; height: 200px; border: solid 8px pink;}
+.special{color:green}
+.caps{text-transform: uppercase}
+#highlight{background-color: yellow}
+body{text-align: center; font-family: 'Lato', sans-serif; font-size: 30px}
